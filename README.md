@@ -10,4 +10,4 @@ An exploration of eCommerce principals for a fictional, craft Distillery. The pr
 
 [onyudo.github.io](https://github.com/onyudo/onyudo.github.io)
 
-My Web Development and Design portfolio, in progress. In its current phase it uses the Astro.build framework.
+A personal portfolio website using the Astro framework, integrating modern web development practices for fast, static site generation and a responsive user interface. Utilized HTML, CSS, JavaScript and TypeScript to create an interactive and user-friendly design. Deployed on GitHub Pages for streamlined hosting and version control. The project is currently at the content creation phase.
