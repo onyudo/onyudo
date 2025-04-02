@@ -2,6 +2,10 @@
 
 Hi, there! I’m an experienced and detail-oriented Web Developer and Graphic Designer with 18 years of experience delivering high-performance websites and web applications for a wide range of clients. I’m skilled in front-end development, with a focus on responsive design, user experience, and continuous optimization with a proven track record of driving business growth through innovative digital solutions.
 
+- 🌱 I’m currently learning React & SQL
+
+- 📫 How to reach me: martin@forceandform.com
+
 ### Projects
 
 [Hairy Antler Distillery](https://github.com/onyudo/hairy-antler-distillery)
