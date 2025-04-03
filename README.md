@@ -6,15 +6,11 @@ Hi, there! I’m an experienced and detail-oriented Web Developer and Graphic De
 
 - 📫 How to reach me: martin@forceandform.com
 
-### Projects
+### Featured Project
 
 [Hairy Antler Distillery](https://github.com/onyudo/hairy-antler-distillery)
 
 An exploration of eCommerce principals for a fictional, craft Distillery. The project makes use of a Better-SQLite3 database, REST APIs and the Express.js framework.
-
-[onyudo.github.io](https://github.com/onyudo/onyudo.github.io)
-
-A personal portfolio website using the Astro framework, integrating modern web development practices for fast, static site generation and a responsive user interface. Utilized HTML, CSS, JavaScript and TypeScript to create an interactive and user-friendly design. Deployed on GitHub Pages for streamlined hosting and version control. The project is currently at the content creation phase.
 
 ### Make Contact & Say Hello
 
