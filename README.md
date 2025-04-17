@@ -1,6 +1,7 @@
 # Martin Otis
 
-Hi, there! I’m an experienced and detail-oriented Web Developer and Graphic Designer with 18 years of experience delivering high-performance websites and web applications for a wide range of clients. I’m skilled in front-end development, with a focus on responsive design, user experience, and continuous optimization with a proven track record of driving business growth through innovative digital solutions.
+Hi, there! I'm a detail-oriented Web Developer and Graphic Designer with experience delivering high-performance websites and web applications for a wide range of clients. Skilled in front-end development, with a focus on responsive design, user experience, and continuous optimization. Proven track record of driving
+business growth through innovative digital solutions.
 
 - 🌱 I’m currently learning React & SQL
 
